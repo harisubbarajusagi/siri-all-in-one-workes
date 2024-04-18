@@ -1,0 +1,25 @@
+<html>
+    <header>
+        <title>Siri All in Works</title>
+        <link rel="stylesheet" href="siri all in works.css">
+    </header>
+    <body>
+       <hr><marquee><h1>Siri All in One Marriage Work</h1></marquee> <hr>
+        <div class="slider">
+        <div class="gallery">
+            <br> <img src="https://www.internationalbrandequity.com/wp-content/uploads/2022/04/event-management-guide.jpg" alt="image1"  width="800px" height="600px">
+            <h2>Event Management </h2>
+            <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLe26gnukcV1-AEsz0FGRoRTWs6v_8kFx4KdmT8uTyDUCRphi99gnsbAD1WU_FWOidukc&usqp=CAU" alt="image2"  width="600px" height="400px">
+            <h2>Catering Services</h2>
+           <br> <img src="https://qph.cf2.quoracdn.net/main-qimg-51a3ca9848e15c3b60671dd37fd0f0b1-lq" alt="image3"  width="800px" height="600px">
+           <h2>Bureau</h2>   
+           <br> <img src="https://cdn0.weddingwire.in/vendor/9588/3_2/960/jpeg/wedding-decorators-royal-events-and-wedding-planner-stage-decor-3_15_419588-167938172975239.jpeg" alt="image4"  width="800px" height="600px">
+           <h2>Marriage Event Planner</h2>
+            <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUVvvWVJ_3kXN1kFnxNWjLewhMdObILxjpA&usqp=CAU" alt="image5"  width="800px" height="600px">
+            <h2>Makeup Event in Marriage</h2>    
+        </div>
+    <button class="next">❯</button>
+</div>
+        <script src="siri all in works.js"></script>
+    </body>
+</html>
