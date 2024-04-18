@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.gallery {
+    width: 100%;
+    height: auto;
+    grid-template-columns: repeat(auto-fit minmax(200px,1fr));
+    grid-gap: 10px;
+    padding: 10px;
+}
+body {
+    font-family: Arial,Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: rebeccapurple;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 1 0 7px rgba(0, 1, 0, 0.1);
+    
+}
+
+.slider img {
+    display: none;
+    max-width: 100%;
+    height: auto;
+}
+h1 {
+    background-color: red;
+    text-decoration-color: antiquewhite;
+}
